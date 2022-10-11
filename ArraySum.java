@@ -1,3 +1,5 @@
+//Sum of all numbers in a array excluding odd numbers that comes after even numbers.
+
 import   java.util.Scanner;
 public class ArraySum {
     public static void main(String [] args){
