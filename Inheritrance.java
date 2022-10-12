@@ -1,3 +1,8 @@
+
+// Single level inheritance
+
+
+
 class Employee{
     String name;
     int empId;
