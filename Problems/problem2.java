@@ -1,3 +1,5 @@
+//Given a array. If number of odd number equal to the number of even number,then place all odd number in odd position and even number in even position
+
 import java.util.Scanner;
 public class problem2 {
     public static void main(String [] args){
