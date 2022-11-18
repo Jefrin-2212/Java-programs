@@ -1,3 +1,5 @@
+// Read N numbers, and find 2nd largest and smallest number and print//
+
 import java.util.Scanner;
 public class SmallLarge {
 
