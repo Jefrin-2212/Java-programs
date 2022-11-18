@@ -1,3 +1,13 @@
+/*2. Write a program to print the repeating substring of minimum length 2 in a given sentence.
+ 
+Examples:
+ 
+Input: However Everyday is a Day.
+Output: ever, day 
+*/
+
+
+
 import java.util.*;
 
 
